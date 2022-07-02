@@ -33,14 +33,14 @@
 
 	<body>
 		<div class="change">
-			<div id="effect" class="ui-width-content ui-corner-all">
+			<div id="effect">
 				<?php
 					print("<h3>Animate</h3>");
 					print("<p>The animate() method performs a custom animation of a set of CSS properties. This method changes an element from one state to another with CSS styles..</p>")
 				?>
 			</div>
 		</div>
-		<button id="button" class="ui-state-default ui-corner-all">Click to change</button>
+		<button id="button">Click to change</button>
 	</body>
 	
 	<script>
